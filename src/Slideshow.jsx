@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 import './Slideshow.css';
 
 const images = [
-  'image1.png', // Substitua pelo caminho real da sua imagem
-  'image2.png'  // Substitua pelo caminho real da sua imagem
+  'Imagem.slide3.jpg', // Substitua pelo caminho real da sua imagem
+  'Imagem.slide4.jpg'  // Substitua pelo caminho real da sua imagem
 ];
 
 function Slideshow() {

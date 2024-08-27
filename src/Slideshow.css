@@ -1,11 +1,9 @@
 .slideshow {
     width: 100%;
-    height: 300px; /* Ajuste o tamanho conforme necessário */
+    height: 550px; /* Ajuste o tamanho conforme necessário */
     display: flex;
-    justify-content: center;
-    align-items: center;
     overflow: hidden;
-    margin-top: 20px; /* Espaço entre o slideshow e os componentes acima */
+    margin-top: 5px; /* Espaço entre o slideshow e os componentes acima */
   }
   
   .slideshow img {
@@ -18,4 +16,5 @@
   .slideshow img:nth-child(1) {
     opacity: 1;
   }
+  
   

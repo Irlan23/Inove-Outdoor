@@ -8,14 +8,21 @@ function Footer() {
 
     <footer className="footer">
 
-      <p >Siga-nos nas redes sociais: </p>
+        <section id="contatos" className="contact-section">
 
-      <div className="social-links">
+        <h2>Contatos</h2>
 
-        <a href="#facebook"> Facebook </a>
-        <a href="#instagram"> Instagram </a>
-        <a href="#linkedin"> LinkedIn </a>
-      </div>
+        <p>
+          Siga-nos nas redes sociais para se manter atualizado com as nossas últimas novidades:
+        </p>
+
+        <ul>
+          <li><a href="https://facebook.com/inove"> Facebook </a></li>
+          <li><a href="https://instagram.com/inove"> Instagram </a></li>
+          <li><a href="https://whatsapp.com/company/inove"> WhatsApp </a></li>
+        </ul>
+
+        </section>
 
     </footer>
 
