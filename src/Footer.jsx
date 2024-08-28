@@ -10,7 +10,7 @@ function Footer() {
 
         <section id="contatos" className="contact-section">
 
-        <h2>Contatos</h2>
+        <h2> Contatos </h2>
 
         <p>
           Siga-nos nas redes sociais para se manter atualizado com as nossas últimas novidades:

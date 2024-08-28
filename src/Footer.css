@@ -2,7 +2,9 @@
   background-color: #333; 
   padding: 40px 20px; 
   color: #fff; 
-  text-align: center; 
+  text-align: center;
+  margin-top: 5px;
+  border-radius: 10px; 
 }
 
 .contact-section h2 {

@@ -14,7 +14,7 @@ function Header() {
       <nav className="nav">
 
         <ul>
-          <li><a href="#cadastro-se"> CADASTRE-SE </a></li>
+          <li><a href="#login"> LOGIN </a></li>
           <li><a href="#contatos"> CONTATOS </a></li> {/* Redireciona para a seção de contatos */}
           <li><a href="#sobre-nos"> SOBRE NÓS </a></li> {/* Redireciona para a seção sobre nós */}
         </ul>
