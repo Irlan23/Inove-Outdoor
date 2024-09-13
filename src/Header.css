@@ -27,4 +27,9 @@
     font-weight: bold;
 
   }
+
+  .header nav ul li a:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Sombra ao redor do botão ao passar o mouse */
+    transform: translateY(-2px); /* Eleva ligeiramente o botão para um efeito 3D */
+  }
   

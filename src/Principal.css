@@ -20,7 +20,12 @@
     padding: 10px 20px;
     font-size: 1em;
     cursor: pointer;
-    border-radius: 10px;
+    border-radius: 20px;
+  }
+
+  .ad-buttons button:hover{
+    background-color: #bdbcbc;
+
   }
   
   .outdoor-types {

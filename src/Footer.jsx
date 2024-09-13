@@ -1,5 +1,4 @@
 import React from 'react';
-import './Footer.jsx';
 import './Footer.css';
 
 function Footer() {
@@ -17,8 +16,8 @@ function Footer() {
         </p>
 
         <ul>
-          <li><a href="https://facebook.com/inove"> Facebook </a></li>
-          <li><a href="https://instagram.com/inove"> Instagram </a></li>
+          <li><a href="https://www.facebook.com/inovemidiaex/?locale=pt_BR"> Facebook </a></li>
+          <li><a href="https://www.instagram.com/inovemidiaexterior/"> Instagram </a></li>
           <li><a href="https://whatsapp.com/company/inove"> WhatsApp </a></li>
         </ul>
 
